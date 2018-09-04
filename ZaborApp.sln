@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZaborApp", "ZaborApp\ZaborApp.csproj", "{5FF89143-5607-429D-B59A-2BC43C4E5D1B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5FF89143-5607-429D-B59A-2BC43C4E5D1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FF89143-5607-429D-B59A-2BC43C4E5D1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FF89143-5607-429D-B59A-2BC43C4E5D1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FF89143-5607-429D-B59A-2BC43C4E5D1B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D76DF038-FADD-42C1-867C-A4E89BFA9C3A}
+	EndGlobalSection
+EndGlobal
